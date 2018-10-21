@@ -1,0 +1,99 @@
+body{
+    background-color:whitesmoke;
+
+}
+
+p{
+    font-family: "Arial";
+    color:black;
+    font-weight: normal;
+
+}
+
+h3{
+    color: #163b13;
+    font-size: 40px;
+    font family:"Cursive";
+    font-weight: bold;
+
+}
+
+li{
+
+}
+
+#Header{
+    Width:900px;
+    margin-left: auto;
+    margin-right:auto;
+    margin-bottom: 10px;
+    border:solid 8px black;
+    text-align: center;
+    background-color: #163b13;
+}
+
+#Header h1{
+    font-size: 60px;
+    font-family: "Fantasy";
+    color: whitesmoke;
+    font-weight: bold
+
+}
+
+#LeftNav{
+    Width:400px;
+    margin-left: auto;
+    margin-right:auto;
+    margin-bottom: 10px;
+    border:solid 8px black;
+    float: left;
+    text-align: center;
+   padding-bottom: 8px;
+   padding-right: 15px;
+   background-color: black;
+   border-style:dotted;
+   border-radius: 25px;
+    
+
+}
+
+#LeftNav img{
+
+}
+
+#LeftNav ul{
+    list-style-type: none;
+
+}
+
+#LeftNav h3{
+
+}
+
+#Content{
+    Width:700px;
+    margin-left: auto;
+    margin-right:auto;
+    margin-bottom: 10px;
+    border:solid 8px black;
+    text-align: center;
+    padding: 15px;
+    background-color: whitesmoke;
+   
+}
+
+#Footer{
+    width: 700px;
+    margin-left: auto;
+    margin-right:auto;
+    margin-bottom: 10px;
+    border:solid 8px black;
+    text-align: center;
+    border-radius: 25px;
+
+}
+
+#Footer ul{
+    list-style-type: none;
+    padding-left: 0px;
+}
